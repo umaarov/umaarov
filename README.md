@@ -1,3 +1,4 @@
+![logo](https://github.com/diesfromcringe/diesfromcringe/blob/main/matrix.gif)
 <h1 align="center">Hi 👋, I'm Ismoil</h1>
 <h3 align="center">17 y.o Junior Android Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
