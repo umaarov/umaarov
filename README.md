@@ -5,4 +5,4 @@
 
 - 📫 **hs.umarov21@gmail.com** <br>
 
-<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diesfromcringe&show_icons=true&locale=en&layout=compact" alt="diesfromcringe" /></p>
+<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diesfromcringe&show_icons=true&locale=en&layout=compact" alt="diesfromcringe" /></p>
